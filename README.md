@@ -1,7 +1,7 @@
 # MoreHopQA: More Than Multi-hop Reasoning
 
 This repository contains the code to run the evaluation and analyses for MorehopQA: More Than Multi-hop Reasoning.  
-We also provide the dataset on [Huggingface](https://huggingface.co/datasets/alabnii/morehopqa).
+We also provide the dataset on [Huggingface](https://huggingface.co/datasets/alabnii/morehopqa). For more details please also see our [paper](https://arxiv.org/abs/2406.13397).
 
 ---
 ## The dataset
